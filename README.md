@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [GPT-jobhunter]{https://github.com/espin086/GPT-Jobhunter}
+- 🔭 I’m currently working on [GPT-jobhunter](https://github.com/espin086/GPT-Jobhunter)
 - 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on NLP Projects
 - 📫 How to reach me: atharvasj07@gmail.com
